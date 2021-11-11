@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1spari", "3.1spari\3.1spari.csproj", "{3F998E50-0AA2-4A42-BF76-2E57FFA79472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F998E50-0AA2-4A42-BF76-2E57FFA79472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F998E50-0AA2-4A42-BF76-2E57FFA79472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F998E50-0AA2-4A42-BF76-2E57FFA79472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F998E50-0AA2-4A42-BF76-2E57FFA79472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F81FEE-DE25-4FBE-902C-16D7D49DF9E3}
+	EndGlobalSection
+EndGlobal
